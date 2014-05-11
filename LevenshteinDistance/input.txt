@@ -1,0 +1,23 @@
+xabcdefg
+abcxdefg
+abcdefgx
+
+bcdefg
+abcdef
+abcdeg
+
+xbcdefg
+abcxefg
+abcdefx
+
+abasd
+xabcdefgx
+abcdefg
+
+END OF INPUT
+
+
+
+abcdefg
+abcdefgh
+
